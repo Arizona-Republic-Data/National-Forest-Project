@@ -2,7 +2,7 @@
 
 The analysis and the data on this page were used to publish a USA Today Network project exploring special use permits for systems that divert or transport water on national forest land. 
 
-# About the ipbyn files
+# About the ipynb files
 
 <b>Forest Check:</b> confirms that permits or easements exist in every continental National Forest system
 
@@ -10,8 +10,10 @@ The analysis and the data on this page were used to publish a USA Today Network 
 
 <b>Permit_data_master_FS:</b> This code created from the original FOIA response the master permit file used in the searchable database, and for analysis of permits / easements within each forest
 
-# About the 
+# About the data files
+<b>original water use file.xslx:</b> Data in its original form sent to us from the National Forest Service, in response to our FOIA. 
 
+<b>cb_2018_us_state_20m.zip:</b> Shapefile of state boundaries from the census
 
 # Links to files not included 
 <b>Forest to Faucet geodatabase:</b> https://usfs-public.app.box.com/v/Forests2Faucets
