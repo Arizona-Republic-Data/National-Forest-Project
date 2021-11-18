@@ -34,13 +34,19 @@ To estimate runoff changes within forests, the Republic calculated volumes withi
 
 The calculation, for each watershed, looks like this: (this is all hypothetical)
  
-Watershed A has a mean annual water yield of 200 mm/yr
-It’s predicted to have a -5 percent change between 2010 and 2040 under the low emissions climate change scenario
-To get the millimeter change: 200*-5 = -10 mm
-Watershed A is 10,000 acres but 50 percent of it is in a national forest
-To get the volume change in acre feet between 2010 and 2040:
--10/304.8 = -.033 feet
-.033 feet * 5,000 acres of NF land = -165 acre-feet change specifically in the national forest
+<li>Watershed A has a mean annual water yield of 200 mm/yr
+
+<li>It’s predicted to have a -5 percent change between 2010 and 2040 under the low emissions climate change scenario
+
+<li>To get the millimeter change: 200*-5 = -10 mm
+
+<li>Watershed A is 10,000 acres but 50 percent of it is in a national forest
+
+<li>To get the volume change in acre feet between 2010 and 2040:
+
+<li>-10/304.8 = -.033 feet
+
+<li>.033 feet * 5,000 acres of NF land = -165 acre-feet change specifically in the national forest
 
 The interactive watershed map found in the main bar shows all watersheds that were in and around national forests. The volume change amounts in that map reflect the change for the whole watershed, regardless if only part of it overlapped with a forest. 
  
