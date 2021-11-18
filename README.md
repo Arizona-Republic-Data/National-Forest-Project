@@ -27,3 +27,20 @@ The Republic's watershed map reflects only one potential future and predicting p
 Percentage change is based on average annual water yields from 1960 to 2015, compared to what is projected under this model from 2030 to 2049.   
 
 <b>Forest Service Shapefiles:</b> https://data.fs.usda.gov/geodata/edw/datasets.php?xmlKeyword=boundaries
+
+The Republic used the original, proclaimed boundaries of national forests shapefiles to identify watersheds that overlap or border land inside the boundaries of national forests. 
+
+To estimate runoff changes within forests, the Republic calculated volumes within each selected watershed by multiplying the projected change in milimeters (provided by the Forest Service data) by the area of that watershed that existed within a forest. The Republic ran this by a couple watershed experts to ensure its accuracy. 
+
+The calculation, for each watershed, looks like this: (this is all hypothetical)
+ 
+Watershed A has a mean annual water yield of 200 mm/yr
+It’s predicted to have a -5 percent change between 2010 and 2040 under the low emissions climate change scenario
+To get the millimeter change: 200*-5 = -10 mm
+Watershed A is 10,000 acres but 50 percent of it is in a national forest
+To get the volume change in acre feet between 2010 and 2040:
+-10/304.8 = -.033 feet
+.033 feet * 5,000 acres of NF land = -165 acre-feet change specifically in the national forest
+
+The interactive watershed map found in the main bar shows all watersheds that were in and around national forests. The volume change amounts in that map reflect the change for the whole watershed, regardless if only part of it overlapped with a forest. 
+ 
