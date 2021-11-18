@@ -36,7 +36,7 @@ The calculation, for each watershed, looks like this: (this is all hypothetical)
  
 <li>Watershed A has a mean annual water yield of 200 mm/yr
 
-<li>It’s predicted to have a -5 percent change between 2010 and 2040 under the low emissions climate change scenario
+<li>It’s predicted to have a -5 % change between 2010 and 2040 under the low emissions climate change scenario
 
 <li>To get the millimeter change: 200*-5 = -10 mm
 
