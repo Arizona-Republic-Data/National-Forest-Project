@@ -18,10 +18,12 @@ The analysis and the data on this page were used to publish a USA Today Network 
 # Links to files not included 
 <b>Forest to Faucet geodatabase:</b> https://usfs-public.app.box.com/v/Forests2Faucets
 
-Forest Service researchers determined percent change using a climate model with a relatively ‘wet’ scenario. The researchers projected change based on a future with relatively low carbon emissions, and one with unlikely and extremely high emissions.
+Forest Service researchers determined percentage change in average annual water yield using a climate model with a relatively ‘wet’ scenario. The researchers projected change based on a future with relatively low carbon emissions, and one with unlikely and extremely high emissions. 
 
 Climate scientists typically use models to compare how the climate is likely to change under different amounts of environmental interventions. The Republic is showing the low-emissions model, which is considered to be fairly optimistic.
 
 The Republic's watershed map reflects only one potential future and predicting precipitation comes with a lot of uncertainty.
+
+Percentage change is based on average annual water yields from 1960 to 2015, compared to what is projected under this model from 2030 to 2049.   
 
 <b>Forest Service Shapefiles:</b> https://data.fs.usda.gov/geodata/edw/datasets.php?xmlKeyword=boundaries
