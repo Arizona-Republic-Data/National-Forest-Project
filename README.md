@@ -22,6 +22,6 @@ Forest Service researchers determined percent change using a climate model with 
 
 Climate scientists typically use models to compare how the climate is likely to change under different amounts of environmental interventions. The Republic is showing the low-emissions model, which is considered to be fairly optimistic.
 
-This map reflects only one potential future and predicting precipitation comes with a lot of uncertainty.
+The Republic's watershed map reflects only one potential future and predicting precipitation comes with a lot of uncertainty.
 
 <b>Forest Service Shapefiles:</b> https://data.fs.usda.gov/geodata/edw/datasets.php?xmlKeyword=boundaries
