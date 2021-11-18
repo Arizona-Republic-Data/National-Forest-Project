@@ -48,5 +48,5 @@ The calculation, for each watershed, looks like this: (this is all hypothetical)
 
 <li>.033 feet * 5,000 acres of NF land = -165 acre-feet change specifically in the national forest
 
-The interactive watershed map found in the main bar shows all watersheds that were in and around national forests. The volume change amounts in that map reflect the change for the whole watershed, regardless if only part of it overlapped with a forest. 
+The interactive watershed map found in the main story shows all watersheds that were in and around national forests. The volume change amounts in that map reflect the change for the whole watershed, regardless if only part of it overlapped with a forest. 
  
